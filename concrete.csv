@@ -1,4 +1,4 @@
-cement [kg/m3],żużel_wielkopiecowy [kg/m3],popiół_lotny [kg/m3],woda [kg/m3],superplastyfikator [kg/m3],kruszywo_grube [kg/m3],kruszywo_drobne [kg/m3],wiek [dni],strength
+cement [kg/m3],żużel_wielkopiecowy [kg/m3],popiół_lotny [kg/m3],woda [kg/m3],superplastyfikator [kg/m3],kruszywo_grube [kg/m3],kruszywo_drobne [kg/m3],wiek [dni],wytrzymałość [MPa]
 141.3,212,0,203.5,0,971.8,748.5,28,29.89
 168.9,42.2,124.3,158.3,10.8,1080.8,796.2,14,23.51
 250,0,95.7,187.4,5.5,956.9,861.2,28,29.22

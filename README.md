@@ -1,11 +1,11 @@
 # concrete-strenght-calculator
 Prosta analiza wpływu poszczególnych składników na końcową wytrzymałość betonu na ściskanie
 
-# Jest to wersja "step by step"
+## Jest to wersja "step by step"
 Każda linijka będzie opisana komentarzem.
 Powstała ona w celu nauki własnej i lepszego zrozumienia pisanego kodu i operacji wykonywanych na danych
 
-# Predykcja wytrzymałości betonu na ściskanie
+## Predykcja wytrzymałości betonu na ściskanie
 
 Wytrzymałość na ściskanie betonu jest określana zazwyczaj w przedziale od 7 do 28 dni (lub w czasie równoważnym do cementu) wg normy PN-EN 206.
 

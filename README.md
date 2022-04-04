@@ -16,3 +16,5 @@ Wartości zostaną obliczone za pomocą kilku rodzajów modeli w celu wybrania n
 Poniższa baza powstała w zakładzie prefabrykacji podczas zarobów próbnych i testowej produkcji betonu.
 Zawiera ona informacje z naważania składników oraz wytrzymałość na ściskanie po określonej ilości dni
 W celu zwiększenia ilości próbek w danych wsadowych uwzględniono również wyniki badań kostek "świadków" w wieku od 90 do 365 dni oraz zbiór danych z serwisu kaggle.com
+
+## Ze względu na testowanie nowych funkcjonalności do odwołania inne pliki .jpynb niż test predykcji nie będą upubliczniane
